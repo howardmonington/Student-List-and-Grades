@@ -1,2 +1,2 @@
 # Student-List-and-Grades
-Test change
+This project was my final project in my Object Oriented Programming class. The project implements concepts of OOP, including inheritance and polymorphism. The code allows a user to create or remove a course, to add students to a student list for a particular course, and to enter or change the grades for each student. This project does not save any of the information to a database.
